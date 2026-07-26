@@ -155,11 +155,9 @@ Overall, profitability is substantially driven by the interaction of demand, rou
 
 
 Next Questions:
-    1. Which cost components are responsible for the poor profitability of short-haul flights?
-    2. Why do High-demand flights earn substantially more profit? 
-    3. Is the observed profitability difference between aircraft types driven by fleet efficiency or by    the routes on which each aircraft operates?
-    4. Which aircraft performs best within each route category?
-    5. Which individual routes significantly outperform or underperform the average profitability of their route category?
-    6. How does seasonality change profitability of each route?
+    1. To what extent does the operating cost structure explain the poor profitability of short-haul flights?
+    2. Why do long-haul and high-demand flights generate substantially higher profit margins?
+    3. Which aircraft performs best within each route category?
+    4. Which individual routes significantly outperform or underperform the average profitability of their route category?
 */
  
